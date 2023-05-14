@@ -30,3 +30,4 @@ py -m venv .venv
 # install dependencies
 $ pip install -r requirements.txt
 ```
+
